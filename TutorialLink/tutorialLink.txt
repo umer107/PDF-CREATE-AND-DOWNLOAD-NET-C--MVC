@@ -1,0 +1,1 @@
+http://www.dotnetcurry.com/aspnet-mvc/1369/print-aspnet-mvc-view-to-pdf
